@@ -191,9 +191,8 @@ CASE, IT IS NOTICED AT LATER STAGE THAT UPLOADED DOCUMENTS ARE NOT GENUINE THEN 
 </tr>
 </tbody>
 </table>
-                </div>
         </div>
-
+        </div>
         <div className={styles.publicdisclosure_staff}>
             <h3>D. STAFF (Teaching) :</h3>
                 <div className={styles.publicdisclosure_staff_table}>
